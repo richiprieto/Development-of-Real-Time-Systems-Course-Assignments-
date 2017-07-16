@@ -5,6 +5,7 @@ Assignment 1
 Ricardo Manuel Prieto Galarza
 */
 /**********************************Programming assignment*********************************/
+/*
 -Download the FreeRTOS project Here
 
 -Import the project into Visual Studio Express 2015. More information from our Documentation.
@@ -29,6 +30,7 @@ Task1 should print out "This is task 1" every 100 milliseconds (hint use fflush(
 Task2 should print out "This is task 2" every 500 milliseconds
 
 -Provide a screenshot of the execution in a report and the source code of your solution.
+*/
 /****************************************************************************************/
 
 /* FreeRTOS.org includes. */
